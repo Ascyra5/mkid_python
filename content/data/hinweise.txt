@@ -1,0 +1,6 @@
+FIKTIVE ERMITTLUNGSAKTE
+Ausgangsreferenz für die Physikräume: 48.90000 Grad N, 9.13455 Grad E.
+Lokales Modell: x nach Osten, y nach Norden, Meter.
+Vier fiktive Ortungssender; simulierte Entfernungsmessungen.
+Ungenauigkeit des Indoor-Ortungssystems: Modell-Suchbereich +-20 m um Schätzwert.
+Die genaue Raumgrenze ist nicht bekannt.
